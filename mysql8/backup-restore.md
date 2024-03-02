@@ -4,7 +4,7 @@ Assume that mysql server is running on x.x.x.22 machine. How to move the data fr
 
 There are many methods available for backup and restoring mysql data.Let us use the MySQL inbuilt tool set for simple cases like dev,test and clone cases.
 
-![Simple backup!](/assets/images/simple-backup.jpg)
+![Simple backup!](/mysql8/assets/images/simple-backup.jpg)
 
 
 ## setup
